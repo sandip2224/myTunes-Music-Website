@@ -130,7 +130,6 @@ To get a local copy up and running follow these simple example steps as mentione
 
 2. Set up live server inside `index.html` using a HTML code editor (eg.: VSCode)
 
-<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- LICENSE -->  
 
 <h2 align="center">License</h2>
