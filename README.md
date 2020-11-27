@@ -154,7 +154,6 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Contact</h2>
 
-- **Find out more about me** [ here](https://linkedin.com/in/sandipan0164)  
 - **Reach out to me at** [ sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -165,4 +164,4 @@ Contributions are what make the open source community such an amazing place to b
 * [CSS docs](https://www.w3schools.com/css/default.asp)
 * [JavaScript basics](https://www.w3schools.com/js/default.asp)
 
-<h3 align="right">Built with :heart: by <em>Sandipan Das</em></h3>
+<h4 align="right">Built with :heart: by <a href="https://linkedin.com/in/sandipan0164">Sandipan Das</a></h4>
