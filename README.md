@@ -34,10 +34,9 @@
    - [Preview](#preview)
    - [Built With](#built-with)
 - [Getting Started](#getting-started)
-   - [Core Folder Structure](#folder-structure)
+   - [Folder Structure](#folder-structure)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -63,50 +62,60 @@ Here's why it's so awesome:
 <!-- Preview -->
 <h2 align="center">Preview</h2>
 
-<p align="center"><img src="img/grid_image.png" height=400 width=800/></p>
+**Homepage**
+<p align="center"><img src="dist/img/home1.PNG" height=400 width=800/></p>
+
+**Music Page**
+<p align="center"><img src="dist/img/music1.PNG" height=400 width=800/></p>
+
+**Video Page**
+<p align="center"><img src="dist/img/video1.PNG" height=400 width=800/></p>
+
+**Entertainment section**
+<p align="center"><img src="dist/img/enter1.PNG" height=400 width=800/></p>
+
+**Gift page + Footer**
+<p align="center"><img src="dist/img/gft1.PNG" height=400 width=800/></p>
 
 
 <!-- BUILT WITH -->  
 
 <h2 align="center">Built With</h2>
 
-This section should list any major frameworks that you built your project using either as `text` or as `badges`. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
-
 <p align="center">
    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-</p>  
-
+</p>
 
 <!-- GETTING STARTED -->
 
 <h2 align="center">Getting Started</h2>
 
-To get a local copy up and running follow these simple example steps as mentioned based on your project.  
+To get a local copy up and running follow these simple example steps as mentioned under [Installation](#installation) section below
 
 <!-- FOLDER STRUCTURE -->
 <h2 align="center">Folder Structure</h2>
 
 ```
-   ├── img                     # Image files for README.md
    |
-   ├── LICENSE                 # MIT License
-   |
-   └── README.md               # README.md file
+   ├── dist
+   ├──────── css           # CSS source folder
+   ├──────── img           # Images folder
+   ├──────── js            # Javascript folder
+   ├──────── parallax      # Parallax.js files
+   └── index.html          # HTML markup file
 ```
 
 <!-- PREREQUISITES -->
 
 <h2 align="center">Prerequisites</h2>
 
-This is an example of how to list things you need to set up the project and get it running:  
-
-- [x] HTML 5  
-- [x] Express.js
-- [x] EJS Templates  
+- [x] HTML 5 markup
+- [x] CSS styling
+- [x] JavaScript
+- [x] AOS library
+- [x] Parallax.js library
 
 <p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- INSTALLATION -->
@@ -115,20 +124,11 @@ This is an example of how to list things you need to set up the project and get 
 1. Fork and clone this repository using  
 
 ```
-  git clone https://github.com/sandipan_2224/My-README.md-Template.git
-  cd My-README.md-Template 
+  git clone https://github.com/sandipan_2224/myTunes-Music-Website.git
+  cd myTunes-Music-Website  
 ```  
 
-2. Add required steps to get the project up and running.  
-
-
-<!-- USAGE -->
-
-<h2 align="center">Usage</h2>
-
-Use this space to showcase useful real-world applications of your project. Additional screenshots, code examples and demos work perfectly fine in this space. You may add more resources links in this section.
-
-_For more examples, please refer to the [Documentation](https://example.com)_  
+2. Set up live server inside `index.html` using a HTML code editor (eg.: VSCode)
 
 <p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- LICENSE -->  
@@ -154,7 +154,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Contact</h2>
 
-- **Hey guys, I'm Sandipan. Find out more about me** [ here](https://linkedin.com/in/sandipan0164)  
+- **Find out more about me** [ here](https://linkedin.com/in/sandipan0164)  
 - **Reach out to me at** [ sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
 <!-- ACKNOWLEDGEMENTS -->
