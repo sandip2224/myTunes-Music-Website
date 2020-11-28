@@ -100,11 +100,13 @@ To get a local copy up and running follow these simple example steps as mentione
 ```
    |
    ├── dist
-   ├──────── css           # CSS source folder
-   ├──────── img           # Images folder
-   ├──────── js            # Javascript folder
-   ├──────── parallax      # Parallax.js files
-   └── index.html          # HTML markup file
+   ├──────── css
+   ├──────────── style.css   # CSS source code
+   ├──────── img             # Images folder
+   ├──────── js
+   ├──────────── main.js     # Javascript source code
+   ├──────── parallax        # Parallax.js files
+   └── index.html            # HTML markup file
 ```
 
 <!-- PREREQUISITES -->
